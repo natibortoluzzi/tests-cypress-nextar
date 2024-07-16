@@ -1,0 +1,10 @@
+{
+  "name": "cypress-test-nextar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nati",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
